@@ -6,11 +6,7 @@ Rewrite CSS custom properties with JS and display them in HTML.
 
 # DEMO
 
-![]()
-
-# Features
-
-* sales point
+* [DEMO](https://ytyaru.github.io/Html.CSS.CustomProperty.20211225164326/)
 
 # Requirement
 

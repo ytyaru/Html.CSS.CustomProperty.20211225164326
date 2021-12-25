@@ -6,11 +6,7 @@
 
 # デモ
 
-![]()
-
-# 特徴
-
-* セールスポイント
+* [DEMO](https://ytyaru.github.io/Html.CSS.CustomProperty.20211225164326/)
 
 # 開発環境
 
